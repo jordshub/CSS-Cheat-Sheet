@@ -50,6 +50,7 @@ html {
 
 .code-card pre:active {
     user-select: all;
+    -webkit-user-select: all;
 }
 
 
